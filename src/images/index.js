@@ -225,6 +225,60 @@ import A206 from "./0206.png";
 import A207 from "./0207.png";
 import A208 from "./0208.png";
 import A209 from "./0209.png";
+import A210 from "./0210.png";
+import A211 from "./0211.png";
+import A212 from "./0212.png";
+import A213 from "./0213.png";
+import A214 from "./0214.png";
+import A215 from "./0215.png";
+import A216 from "./0216.png";
+import A217 from "./0217.png";
+import A218 from "./0218.png";
+import A219 from "./0219.png";
+import A220 from "./0220.png";
+import A221 from "./0221.png";
+import A222 from "./0222.png";
+import A223 from "./0223.png";
+import A224 from "./0224.png";
+import A225 from "./0225.png";
+import A226 from "./0226.png";
+import A227 from "./0227.png";
+import A228 from "./0228.png";
+import A229 from "./0229.png";
+import A230 from "./0230.png";
+import A231 from "./0231.png";
+import A232 from "./0232.png";
+import A233 from "./0233.png";
+import A234 from "./0234.png";
+import A235 from "./0235.png";
+import A236 from "./0236.png";
+import A237 from "./0237.png";
+import A238 from "./0238.png";
+import A239 from "./0239.png";
+import A240 from "./0240.png";
+import A241 from "./0241.png";
+import A242 from "./0242.png";
+import A243 from "./0243.png";
+import A244 from "./0244.png";
+import A245 from "./0245.png";
+import A246 from "./0246.png";
+import A247 from "./0247.png";
+import A248 from "./0248.png";
+import A249 from "./0249.png";
+import A250 from "./0250.png";
+import A251 from "./0251.png";
+import A252 from "./0252.png";
+import A253 from "./0253.png";
+import A254 from "./0254.png";
+import A255 from "./0255.png";
+import A256 from "./0256.png";
+import A257 from "./0257.png";
+import A258 from "./0258.png";
+import A259 from "./0259.png";
+import A260 from "./0260.png";
+import A261 from "./0261.png";
+import A262 from "./0262.png";
+
 
 
 export const AirPods = Array.of(
@@ -445,15 +499,11 @@ export const AirPods = Array.of(
   A197,
   A198,
   A199,
-  A200,
-  A201,
-  A202,
-  A203,
-  A204,
-  A205,
-  A206,
-  A207,
-  A208,
-  A209
-
+  A200, A201, A202, A203, A204, A205, A206, A207, A208, A209,
+  A210, A211, A212, A213, A214, A215, A216, A217, A218, A219,
+  A220, A221, A222, A223, A224, A225, A226, A227, A228, A229,
+  A230, A231, A232, A233, A234, A235, A236, A237, A238, A239,
+  A240, A241, A242, A243, A244, A245, A246, A247, A248, A249,
+  A250, A251, A252, A253, A254, A255, A256, A257, A258, A259,
+  A260, A261, A262
 );
