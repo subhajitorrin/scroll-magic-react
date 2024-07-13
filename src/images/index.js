@@ -192,6 +192,40 @@ import A173 from "./0173.png";
 import A174 from "./0174.png";
 import A175 from "./0175.png";
 import A176 from "./0176.png";
+import A177 from "./0177.png";
+import A178 from "./0178.png";
+import A179 from "./0179.png";
+import A180 from "./0180.png";
+import A181 from "./0181.png";
+import A182 from "./0182.png";
+import A183 from "./0183.png";
+import A184 from "./0184.png";
+import A185 from "./0185.png";
+import A186 from "./0186.png";
+import A187 from "./0187.png";
+import A188 from "./0188.png";
+import A189 from "./0189.png";
+import A190 from "./0190.png";
+import A191 from "./0191.png";
+import A192 from "./0192.png";
+import A193 from "./0193.png";
+import A194 from "./0194.png";
+import A195 from "./0195.png";
+import A196 from "./0196.png";
+import A197 from "./0197.png";
+import A198 from "./0198.png";
+import A199 from "./0199.png";
+import A200 from "./0200.png";
+import A201 from "./0201.png";
+import A202 from "./0202.png";
+import A203 from "./0203.png";
+import A204 from "./0204.png";
+import A205 from "./0205.png";
+import A206 from "./0206.png";
+import A207 from "./0207.png";
+import A208 from "./0208.png";
+import A209 from "./0209.png";
+
 
 export const AirPods = Array.of(
   A0,
@@ -387,5 +421,39 @@ export const AirPods = Array.of(
   A173,
   A174,
   A175,
-  A176
+  A176,
+  A177,
+  A178,
+  A179,
+  A180,
+  A181,
+  A182,
+  A183,
+  A184,
+  A185,
+  A186,
+  A187,
+  A188,
+  A189,
+  A190,
+  A191,
+  A192,
+  A193,
+  A194,
+  A195,
+  A196,
+  A197,
+  A198,
+  A199,
+  A200,
+  A201,
+  A202,
+  A203,
+  A204,
+  A205,
+  A206,
+  A207,
+  A208,
+  A209
+
 );
